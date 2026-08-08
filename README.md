@@ -1,45 +1,41 @@
 # 📸 SnapEdit
 
-A lightweight, **Snapseed-inspired photo editor** that runs entirely in your browser.
+A fast, lightweight, **Snapseed-inspired photo editor** built with pure HTML, CSS and JavaScript.
 
-No backend. No installation. No image uploads required.
+Edit your photos directly in your browser — no installation and no backend required.
 
-## 🚀 Live Demo
+## 🚀 Start Editing
 
-### 👉 [Click here to start editing](https://harsh-dev-live.github.io/SnapEdit/)
+### **[▶️ CLICK HERE — OPEN SNAPEDIT](https://harsh-dev-live.github.io/SnapEdit/)**
 
-Upload a photo and start editing instantly.
+> **Important:** This button opens the actual live website, not the GitHub repository.
 
 ## ✨ Features
 
 * 📂 Click-to-upload
-* 🖱️ Drag & drop image upload
-* 📱 Responsive mobile interface
-* ☀️ Brightness adjustment
-* ◐ Contrast adjustment
-* 🎨 Saturation control
-* 🌡️ Warmth adjustment
-* 🔍 Sharpness enhancement
-* ↶ Rotate left
-* ↷ Rotate right
-* ↔️ Horizontal flip
+* 🖱️ Drag & drop
+* 📱 Mobile-friendly interface
+* ☀️ Brightness
+* ◐ Contrast
+* 🎨 Saturation
+* 🌡️ Warmth
+* 🔍 Sharpness
+* ↶ Rotate
+* ↔️ Flip
 * 🖤 Black & white
-* 🟤 Sepia effect
-* 🔄 One-click reset
+* 🟤 Sepia
+* 🔄 Reset
 * 💾 JPG export
 * 🖼️ PNG export
-* ⌨️ Keyboard shortcuts
 * 🔒 Local browser processing
 
 ## 🔐 Privacy
 
-SnapEdit processes images **locally in your browser**.
+Your photos are processed directly in your browser.
 
-Your photos don't need to be sent to a server for editing.
+**No image upload server is required.**
 
-## 🛠️ Technology
-
-Built with:
+## 🛠️ Built With
 
 * HTML5
 * CSS3
@@ -47,9 +43,7 @@ Built with:
 * Canvas API
 * FileReader API
 
-No frameworks or dependencies are required.
-
-## ⚡ Run Locally
+## 📦 Run Locally
 
 Clone the repository:
 
@@ -57,33 +51,13 @@ Clone the repository:
 git clone https://github.com/harsh-dev-live/SnapEdit.git
 ```
 
-Then open:
+Then open `index.html` in your browser.
 
-```text
-index.html
-```
+No installation or build process is required.
 
-That's it. No `npm install`, build step, or backend is required.
+## 🌐 Live Demo
 
-## 🌐 GitHub Pages
-
-The project can be hosted directly with GitHub Pages.
-
-Go to:
-
-**Repository → Settings → Pages**
-
-Then select:
-
-* **Source:** Deploy from a branch
-* **Branch:** `main`
-* **Folder:** `/ (root)`
-
-Your live application will be available at:
-
-```text
-https://harsh-dev-live.github.io/SnapEdit/
-```
+**[Open SnapEdit →](https://harsh-dev-live.github.io/SnapEdit/)**
 
 ## 📄 License
 
